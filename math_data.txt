@@ -1,0 +1,10 @@
+Solve: 1 + 1 = 2
+Solve: 6 + 2 = 8
+Solve: 2 + 1 = 3
+Solve: 4 + 6 = 10
+Solve: 31 + 21 = 52
+Solve: 4 + 7 = 11
+Solve: 6 + 9 = 15
+Solve: 11 + 23 = 34
+Solve: 3 + 7 = 10
+Solve: 13 + 26 = 39
